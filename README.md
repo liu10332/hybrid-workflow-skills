@@ -39,7 +39,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/hybrid-workflow-skills.git
+git clone https://github.com/liu10332/hybrid-workflow-skills.git
 
 # 进入目录
 cd hybrid-workflow-skills
